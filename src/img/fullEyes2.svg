@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Laag_1"
+   data-name="Laag 1"
+   viewBox="0 0 373424.86 1078111.2"
+   version="1.1"
+   width="373424.88"
+   height="1078111.1"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs254">
+    <style
+       id="style252">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e19e82;
+      }
+
+      .cls-3 {
+        fill: #028151;
+      }
+
+      .cls-4 {
+        fill: #e69674;
+      }
+
+      .cls-5 {
+        fill: #ddd5d2;
+      }
+
+      .cls-6 {
+        fill: #cf1915;
+      }
+
+      .cls-7 {
+        fill: #3d3533;
+      }
+
+      .cls-8 {
+        fill: #e5a451;
+      }
+
+      .cls-9 {
+        fill: #333d63;
+      }
+
+      .cls-10 {
+        fill: #039960;
+      }
+
+      .cls-11 {
+        fill: #e8b29b;
+      }
+
+      .cls-12 {
+        fill: #b57e67;
+      }
+
+      .cls-13 {
+        fill: #edb9a3;
+      }
+
+      .cls-14 {
+        fill: #ecac5a;
+      }
+
+      .cls-15 {
+        fill: #df1a16;
+      }
+
+      .cls-16 {
+        fill: #263056;
+      }
+
+      .cls-17 {
+        fill: #322a28;
+      }
+
+      .cls-18 {
+        fill: #ccb050;
+      }
+
+      .cls-19 {
+        fill: #e8a68a;
+      }
+    </style>
+  </defs>
+  <g
+     id="karakter-man_3"
+     data-name="karakter-man 3"
+     transform="translate(0,-6.9214784)">
+    <g
+       id="Group_8274"
+       data-name="Group 8274">
+      <ellipse
+         id="ellipse5102"
+         data-name="Ellipse 558"
+         class="cls-1"
+         cx="234.24231"
+         cy="-413.58923"
+         ry="28.710617"
+         rx="24.386948"
+         style="fill:#ffaaaa;stroke-width:0.382623"
+         transform="matrix(-0.08649838,0.99625199,-0.99790781,-0.06465297,0,0)" />
+      <ellipse
+         id="Ellipse_558"
+         data-name="Ellipse 558"
+         class="cls-1"
+         cx="243.47752"
+         cy="-246.76271"
+         ry="28.714367"
+         rx="25.13205"
+         style="fill:#ffaaaa;stroke-width:0.38845"
+         transform="matrix(-0.08393392,0.99647132,-0.99777747,-0.06663429,0,0)" />
+      <ellipse
+         id="Ellipse_556"
+         data-name="Ellipse 556"
+         class="cls-17"
+         ry="10.351311"
+         rx="18.681341"
+         cy="258.3175"
+         cx="224.99489"
+         style="stroke-width:0.312496" />
+      <circle
+         id="Ellipse_557"
+         data-name="Ellipse 557"
+         class="cls-1"
+         cx="225.17999"
+         cy="257.34"
+         r="4.7399998" />
+      <ellipse
+         id="ellipse5112"
+         data-name="Ellipse 556"
+         class="cls-17"
+         ry="10.351311"
+         rx="18.681341"
+         cy="257.8175"
+         cx="391.9949"
+         style="stroke-width:0.312496" />
+      <circle
+         id="circle5048"
+         data-name="Ellipse 557"
+         class="cls-1"
+         cx="391.9855"
+         cy="257.11206"
+         r="4.7399998" />
+    </g>
+  </g>
+</svg>
